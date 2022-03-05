@@ -16,17 +16,17 @@ var gameState = "fight"
 
 function preload(){
   
-  heart1Img = loadImage("assets/heart_1.png")
-  heart2Img = loadImage("assets/heart_2.png")
-  heart3Img = loadImage("assets/heart_3.png")
+  heart1Img = loadImage("heart_1.png")
+  heart2Img = loadImage("heart_2.png")
+  heart3Img = loadImage("heart_3.png")
 
-  shooterImg = loadImage("assets/Astro4.jpeg")
-  shooter_shooting = loadImage("assets/Astro8.jpeg")
+  shooterImg = loadImage("Astro4.jpeg")
+  shooter_shooting = loadImage("Astro8.jpeg")
 
-  zombieImg = loadImage("assets/ASTEROID.jpeg")
+  zombieImg = loadImage("ASTEROID.jpeg")
 
-  bgImg = loadImage("assets/BG 2.jpeg")
-  BookImg=loadImage("assets/SUN.jpeg")
+  bgImg = loadImage("BG 2.jpeg")
+  BookImg=loadImage("SUN.jpeg")
 
 }
 
